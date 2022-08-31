@@ -21,5 +21,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  -  CNAME
+  
   - remote_theme: pages-themes/slate@v0.2.0
 
