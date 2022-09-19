@@ -1,18 +1,18 @@
 # Review Blog #1
 
-## _Project_: Places of Residence for Accused Witches:
+## _Project_: Places of Residence for Accused Witches
 
 ## _Project Director(s)_: Ewan McAndrew
 
 ## _Project URL_: [https://witches.is.ed.ac.uk/](https://witches.is.ed.ac.uk/)
 
- ![initial view](https://agengl350.github.io/Ashley-G-Engl350/images/initial.jpg)
+![initial view](https://agengl350.github.io/Ashley-G-Engl350/images/initial.jpg)
 
 ### Summary
 
 The project primarily contains multiple interactive maps of the roughly 3,000 accused witches in Scotland ranging from years 1550-1750. The site has different sections dedicated to the residences (the accused), residences with a timeline and an ArcGIS graph for mainly male to female comparison. Additionally many other smaller maps relating to residences within each parish (county), detention location, death location and many other types of interactive maps within the site. The site mainly contains maps that show the data collected about the accused. Within each map there are filters relating to gender, social class, occupation and comparing a modern day map to a historic map. Overall, I thoroughly enjoyed how interactive this project was but wished that there were more filters for death and such instead of creating multiple graphs which can overwhelm the viewer. Additionally, more contextual information or writings would be beneficial instead of having to search for what each map is about.
 
- ![Filters](https://agengl350.github.io/Ashley-G-Engl350/images/Filters.jpg) 
+![Filters](https://agengl350.github.io/Ashley-G-Engl350/images/Filters.jpg) 
 
 ### Humanistic Evidence
 
@@ -22,7 +22,7 @@ Historically, we can see what happened to many women and men who were accused of
 
 From a technological standpoint, there are many data points used to create a visual representation of who was accused. Additionally, they used ArcGIS which is a form of data mapping. Instead of just reading data upon data, we get to visualize the data with the help of mapping. Not only does this help show the data, it is also relatively accessible to all. Being in a younger generation I was able to easily access all the data information. By using technology it can still be very academic but steer clear of just numbers and statistics on an academic journal and actually show the viewer and let them interact how they would like. The technology itself as a website was easy to navigate, however, maybe summaries of each map versus just a map title would have been a little bit more helpful in understanding the reasoning behind creating a certain map.
 
- ![Menu](https://agengl350.github.io/Ashley-G-Engl350/images/Maps.jpg)
+![Menu](https://agengl350.github.io/Ashley-G-Engl350/images/Maps.jpg)
 
 ### Findings 
 
