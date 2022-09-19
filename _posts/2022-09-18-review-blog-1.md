@@ -6,7 +6,7 @@
 
 ## _Project URL_: [https://witches.is.ed.ac.uk/](https://witches.is.ed.ac.uk/)
 
- ![initial view](https://agengl350.github.io/Ashley-G-Engl350/images/initial view.jpg)
+ ![initial view](https://agengl350.github.io/Ashley-G-Engl350/images/initial.jpg)
 
 ### Summary
 
