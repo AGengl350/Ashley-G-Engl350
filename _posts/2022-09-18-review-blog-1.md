@@ -22,7 +22,7 @@ Historically, we can see what happened to many women and men who were accused of
 
 From a technological standpoint, there are many data points used to create a visual representation of who was accused. Additionally, they used ArcGIS which is a form of data mapping. Instead of just reading data upon data, we get to visualize the data with the help of mapping. Not only does this help show the data, it is also relatively accessible to all. Being in a younger generation I was able to easily access all the data information. By using technology it can still be very academic but steer clear of just numbers and statistics on an academic journal and actually show the viewer and let them interact how they would like. The technology itself as a website was easy to navigate, however, maybe summaries of each map versus just a map title would have been a little bit more helpful in understanding the reasoning behind creating a certain map.
 
- ![Menu](https://agengl350.github.io/Ashley-G-Engl350/images/Menu.jpg)
+ ![Menu](https://agengl350.github.io/Ashley-G-Engl350/images/Maps.jpg)
 
 ### Findings 
 
