@@ -4,7 +4,7 @@
 
 ##_Project URL_: [https://www.higgypop.com/hauntings/ ](https://www.higgypop.com/hauntings/)
 
-image 
+image ![initial map](https://agengl350.github.io/Ashley-G-Engl350/images/Map1.jpg)
 
 ###Summary
 
