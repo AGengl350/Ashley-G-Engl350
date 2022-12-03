@@ -17,7 +17,7 @@ I do not necessarily have a favorite reading but I definitely relate to the read
 
 I really enjoyed the ideation sheet for our grant project where we could bring our ideas to life. I love design and although I can't draw very well I really enjoyed using my ipad to create how I would have the website set up. Similarly, the overall grant project being the main aspect of the course helped to keep me on track and focus on one project instead of having multiple large projects we had a few small ones. 
 
-![ideation](https://agengl350.github.io/Ashley-G-Engl350/images/ideation.jpg)
+![ideation](https://agengl350.github.io/Ashley-G-Engl350/images/ideation2.jpg)
 
 I was not a fan of the annotated bibliography but that is only due to having done so many in previous classes. The upside to this bibliography was being able to utilize sources that were not only academic peer reviewed ones. This helped me to get more ideas for my project. 
 
