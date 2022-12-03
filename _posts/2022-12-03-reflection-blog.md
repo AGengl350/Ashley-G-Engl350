@@ -15,7 +15,7 @@ I do not necessarily have a favorite reading but I definitely relate to the read
 
 ## Assignment Review 
 
-I really enjoyed the ideation sheet for our grant project where we could bring our ideas to life. I love design and although I can't draw very well I really enjoyed using my ipad to create how I would have the website set up. 
+I really enjoyed the ideation sheet for our grant project where we could bring our ideas to life. I love design and although I can't draw very well I really enjoyed using my ipad to create how I would have the website set up. Similarly, the overall grant project being the main aspect of the course helped to keep me on track and focus on one project instead of having multiple large projects we had a few small ones. 
 
 insert ideation 
 
@@ -23,4 +23,5 @@ I was not a fan of the annotated bibliography but that is only due to having don
 
 ## Takeaway 
 
-I think as a writer I have strengthened my skills especially when it comes to writing blog posts and other digital forms of writing. However, I feel that my reading skills have been pretty well maintained but have not necessarily grown. I enjoyed reading for this class because it was not long chapters of a book, it was interesting and shorter articles.
+I think as a writer I have strengthened my skills especially when it comes to writing blog posts and other digital forms of writing. However, I feel that my reading skills have been pretty well maintained but have not necessarily grown. I enjoyed reading for this class because it was not long chapters of a book, it was interesting and shorter articles. Lastly, I appreciate everything that I have learned from this course and I hope to apply some of the things I have learned to my future.
+
