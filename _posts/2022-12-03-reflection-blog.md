@@ -9,7 +9,7 @@ Digital Humanities is very complex and can be defined in many different ways, th
 
 The course readings were very helpful to the general understanding of the course to an extent. I feel that I gained more understanding from in class discussions or examples. But that being said, the readings gave me a basic understanding so that I could come into class with general knowledge about the topic before discussing it further as a class. In previous courses I have not been the best at holding myself accountable when it comes to completing reading assignments, but the weekly twitter posts helped out a lot.
 
-![twitter post](https://agengl350.github.io/Ashley-G-Engl350/images/twitter3.jpg)
+![twitter post](https://agengl350.github.io/Ashley-G-Engl350/images/twitter3.png)
 
 I do not necessarily have a favorite reading but I definitely relate to the reading that discussed rough first drafts. Additionally, I do not think any of the readings should be skipped or not read as thoroughly because there was a reason that the professor chose that reading and it is to benefit the students in having a good understanding of the course material.
 
